@@ -1,4 +1,4 @@
-# IIT Data Analysis: Exploratory Data Analysis
+# Exploring IIT Data: Insights and Patterns
 
 This project is part of the course "Data Analysis with Python: Zero to Pandas" offered by [Jovian.ml](https://jovian.com/). The course is free of cost and available to anyone interested in learning data analysis with Python.
 
